@@ -1,2 +1,2 @@
 # szakdolgozat-iot-meheszet
-Szakdolgozati projekt: Méhcsaládok állapotának monitorozása IoT okoskaptárral. Hardveres vezérlő kódok (C++), szerveroldali szkriptek, webes vizualizáció és Python alapú akusztikus adatelemzés.
+Méhcsaládok állapotának monitorozása IoT okoskaptárral. Hardveres vezérlő kódok (C++), szerveroldali szkriptek, webes vizualizáció és Python alapú akusztikus adatelemzés.
